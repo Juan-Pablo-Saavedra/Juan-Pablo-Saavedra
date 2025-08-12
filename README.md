@@ -10,7 +10,7 @@ Me apasiona aprender nuevas tecnologías, mejorar mis habilidades y contribuir a
 - 🌱 Actualmente aprendiendo: **Arquitecturas de microservicios y optimización en Spring Boot**
 - 💡 Intereses: **Backend, APIs REST, desarrollo web, automatización**
 - 🤝 Abierto a colaborar en: **Proyectos de backend y aplicaciones web**
-- 📍 Ubicación: *[Neiva, Colombia**
+- 📍 Ubicación: **Neiva, Colombia**
 - ⚡ Dato curioso: **Creo que el mejor café para programar es el que haces tú mismo ☕**
 
 ---
