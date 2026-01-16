@@ -8,79 +8,56 @@
 ---
 
 ## 🚀 Sobre mí
-Soy desarrollador de software enfocado en construir **aplicaciones escalables, mantenibles y bien estructuradas**, aplicando buenas prácticas, principios de arquitectura limpia y desarrollo orientado a APIs.
+Desarrollador de software enfocado en crear **aplicaciones escalables, limpias y mantenibles**, con experiencia en **backend**, **frontend web** y **desarrollo móvil**.
 
-Tengo experiencia tanto en **backend** como en **frontend web y mobile**, trabajando con tecnologías modernas y entornos Linux.
+Trabajo principalmente con **Java + Spring Boot** y **PHP + Laravel**, y desarrollo interfaces modernas con **React**, **React Native** y **Bootstrap**.
 
 - 🌱 Aprendiendo: **Microservicios, Arquitectura N-Capas y Clean Architecture**
-- 💡 Intereses: **Backend, APIs REST, Full Stack y Arquitectura de Software**
+- 💡 Intereses: **APIs REST, Full Stack, Arquitectura de Software**
 - 🤝 Abierto a colaborar en: **Proyectos backend, frontend y full stack**
 - 📍 Ubicación: **Neiva, Colombia**
-- ☕ Frase favorita: *Buen código se escribe con buen café*
+- ☕ Código + café = productividad
 
 ---
 
 ## 🧱 Stack Tecnológico
 
 ### 🔹 Backend
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Laravel-EF3B2D?style=for-the-badge&logo=laravel&logoColor=white"/>
-</p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-EF3B2D?style=for-the-badge&logo=laravel&logoColor=white)
 
 ### 🔹 Frontend Web
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ### 🔹 Mobile
-<p align="center">
-  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</p>
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### 🔹 Herramientas
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</p>
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📊 Actividad en GitHub
+> Prefiero mostrar **código real y proyectos**, no gráficos inestables.
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Juan-Pablo-Saavedra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800"
-    alt="GitHub stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Pablo-Saavedra&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top languages"
-  />
-</p>
+🔹 Revisa mis repositorios fijados (Pinned Repositories)  
+🔹 Cada proyecto cuenta con README y estructura clara  
+🔹 Enfoque en buenas prácticas y arquitectura
 
 ---
 
 ## 📫 Contacto
-<p align="center">
-  <a href="mailto:saavedrajuanpis@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/TU_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saavedrajuanpis@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_LINKEDIN)
 
 ---
 
-⭐ **Si te gusta mi trabajo, deja una estrella y sigamos construyendo software de calidad.**
+⭐ *Si te gusta mi trabajo, deja una estrella y sigamos construyendo software de calidad.*
