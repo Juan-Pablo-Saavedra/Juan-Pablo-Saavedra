@@ -1,18 +1,18 @@
 <h1 align="center">¡Hola! 👋 Soy Juan Pablo Saavedra</h1>
-<h3 align="center">💻 Desarrollador de software | Backend & Web 🚀</h3>
+<h3 align="center">💻 Desarrollador de Software | Backend & Frontend 🚀</h3>
 
 ---
 
 ## 🌟 Sobre mí
-Soy un desarrollador de software enfocado en crear soluciones **eficientes, escalables y bien estructuradas**, con fuerte interés en el **backend** y las **arquitecturas modernas**.
+Soy un desarrollador de software enfocado en construir **aplicaciones escalables, mantenibles y bien estructuradas**, con experiencia tanto en **backend** como en **frontend web y móvil**.
 
-Me gusta trabajar tanto con el ecosistema **Java** como con **PHP**, aplicando buenas prácticas, patrones de diseño y principios de arquitectura limpia.
+Trabajo principalmente con **Java (Spring Boot)** y **PHP (Laravel)** en el backend, y con **React y React Native** en el frontend, aplicando buenas prácticas, arquitectura limpia y APIs REST.
 
-- 🌱 Actualmente aprendiendo: **Arquitectura N-Capas, Microservicios y optimización en Spring Boot y Laravel**
-- 💡 Intereses: **Backend, APIs REST, Arquitectura de software, Automatización**
-- 🤝 Abierto a colaborar en: **Proyectos backend, APIs y aplicaciones web**
+- 🌱 Actualmente aprendiendo: **Arquitectura N-Capas, Microservicios y Clean Architecture**
+- 💡 Intereses: **Backend, APIs REST, Arquitectura de Software, Desarrollo Web y Mobile**
+- 🤝 Abierto a colaborar en: **Proyectos backend, frontend y aplicaciones full stack**
 - 📍 Ubicación: **Neiva, Colombia**
-- ⚡ Dato curioso: **El mejor café para programar es el que haces tú mismo ☕**
+- ⚡ Dato curioso: **El café y el código siempre van juntos ☕**
 
 ---
 
@@ -26,11 +26,18 @@ Me gusta trabajar tanto con el ecosistema **Java** como con **PHP**, aplicando b
   <img src="https://img.shields.io/badge/Laravel-EF3B2D?style=for-the-badge&logo=laravel&logoColor=white"/>
 </p>
 
-### 🔹 Frontend
+### 🔹 Frontend Web
 <p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+</p>
+
+### 🔹 Frontend Mobile
+<p align="center">
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
 
 ### 🔹 Herramientas y entorno
@@ -44,19 +51,9 @@ Me gusta trabajar tanto con el ecosistema **Java** como con **PHP**, aplicando b
 
 ## 📊 Mis estadísticas en GitHub
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Juan-Mclovinzx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
-    alt="Estadísticas de GitHub" 
-  />
-</p>
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Juan-Pablo-Saavedra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Mclovinzx&layout=compact&theme=tokyonight&hide_border=true" 
-    alt="Lenguajes más usados" 
-  />
-</p>
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Pablo-Saavedra&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -72,4 +69,4 @@ Me gusta trabajar tanto con el ecosistema **Java** como con **PHP**, aplicando b
 
 ---
 
-⭐ **Si te gusta mi trabajo, no dudes en dejar una estrella ⭐ en mis repositorios y seguirme para más proyectos.**
+⭐ **Si te gusta mi trabajo, deja una estrella ⭐ en mis repositorios y sígueme para más proyectos.**
